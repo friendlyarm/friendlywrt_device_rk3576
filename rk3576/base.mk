@@ -15,6 +15,7 @@ FRIENDLYWRT_FILES+=(device/common/uas)
 FRIENDLYWRT_FILES+=(device/common/emmc-tools)
 FRIENDLYWRT_FILES+=(device/common/distfeeds)
 FRIENDLYWRT_FILES+=(device/common/default-settings)
+FRIENDLYWRT_FILES+=(device/common/rknpu)
 FRIENDLYWRT_FILES+=(device/friendlyelec/rk3576/r8125)
 
 # U-boot
